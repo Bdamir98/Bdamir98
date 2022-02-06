@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Shohel Amir" />
+  <img src="https://github.com/Bdamir98/hello-world/blob/master/images/create-octocat.png" />
 </h1>
 ### Hi there 👋
 
