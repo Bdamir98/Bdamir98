@@ -34,15 +34,15 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Bdamir98&theme=dark&hide_border=true" width = 400>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bdamir98&theme=light&hide_langs_below=1" />
 </p>
-<h1>👨 Links 👨</h1>
+<h1>👨 Social Media 👨</h1>
 <p align="center">
-  <a href="https://www.facebook.com/shohel.amir.90"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/facebook.png" alt="Facebook"style="width:130px;height:130px;/></a>
-  <a href="https://www.instagram.com/amirshohel8/"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/instagram2.png" alt="Instagram"style="width:130px;height:130px;/></a>
-  <a href="https://www.linkedin.com/in/shohel-amir-296106154/"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/linkedin.png" alt="Linkedin"style="width:130px;height:130px;/></a>
-  <a href="https://www.behance.net/shohelamir1"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/behance.png" alt="Behance"style="width:130px;height:130px;/></a>
-  <a href="https://dribbble.com/Shohel"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/dribbble.png" alt="Dribble"style="width:130px;height:130px;/></a>
-  <a href="https://codepen.io/shohel-amir"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/Mask%20Group%20381.png" alt="CodePen"style="width:130px;height:130px;/></a>
-  <a href="https://www.youtube.com/channel/UCGKBq4-5tOdYbeHggJr1VWg"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/youtube.png" alt="Youtube"style="width:130px;height:130px;/></a>
+  <a href="https://www.facebook.com/shohel.amir.90"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/facebook.png" alt="Facebook"style="width:110px;height:110px;/></a>
+  <a href="https://www.instagram.com/amirshohel8/"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/instagram2.png" alt="Instagram"style="width:110px;height:110px;/></a>
+  <a href="https://www.linkedin.com/in/shohel-amir-296106154/"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/linkedin.png" alt="Linkedin"style="width:110px;height:110px;/></a>
+  <a href="https://www.behance.net/shohelamir1"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/behance.png" alt="Behance"style="width:110px;height:110px;/></a>
+  <a href="https://dribbble.com/Shohel"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/dribbble.png" alt="Dribble"style="width:110px;height:110px;/></a>
+  <a href="https://codepen.io/shohel-amir"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/Mask%20Group%20381.png" alt="CodePen"style="width:110px;height:110px;/></a>
+  <a href="https://www.youtube.com/channel/UCGKBq4-5tOdYbeHggJr1VWg"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/youtube.png" alt="Youtube"style="width:110px;height:110px;/></a>
 </p>  
 
 
