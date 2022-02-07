@@ -1,6 +1,13 @@
 <div class="container">
-  <img src="https://github.com/Bdamir98/hello-world/blob/master/images/Web%201920%20%E2%80%93%203.jpg" alt="Snow" style="width:100%;">
+  <img src="https://github.com/Bdamir98/hello-world/blob/master/images/Web%201920%20%E2%80%93%204.jpg" alt="Snow" style="width:100%;">
 </div><br>
+<h1>Hi! I Am Amir Hossain 👋</h1><br>
+- 🔭 I’m currently working With Flutter Mobile App Development.<br>
+- 🌱 I’m currently learning more about BlockChain and Machine Learning.<br>
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCGKBq4-5tOdYbeHggJr1VWg).<br>
+- 💬 Ask me about any tech-related stuff.<br>
+- 😄 Pronouns: He/His<br>
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.<br>
 <h1>🔥 Languages & Abilities 🔥</h1>
 <p>
   <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
