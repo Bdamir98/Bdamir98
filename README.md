@@ -44,6 +44,10 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucgkbq4-5todybehggjr1vwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgkbq4-5todybehggjr1vwg" height="30" width="40" /></a>
 </p> 
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&myquote=Learning to code is learning to create and innovate">
+</p>
+
 <p><h1>⚡ Stats ⚡</h1></p><br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Bdamir98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width = 400>
