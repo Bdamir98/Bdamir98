@@ -1,14 +1,16 @@
-<div class="container">
-  <img src="https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966">
+[![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)]
+
 </div><br>
-<h1>Hi! I Am Amir Hossain 👋</h1><br>
-- 🔭 I’m currently working With Flutter Mobile App Development.<br>
+<h1 align="center">Hi 👋, I'm Amir Hossain</h1>
+<h3 align="center">A passionate Flutter developer and UI/UX Designer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/c6/ff/a5c6ff165995f48ef4351f5848a5ff2a.gif">
 - 🌱 I’m currently learning more about BlockChain and Machine Learning.<br>
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCGKBq4-5tOdYbeHggJr1VWg).<br>
 - 💬 Ask me about any tech-related stuff.<br>
 - 😄 Pronouns: He/His<br>
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.<br>
-<h1>🔥 Languages & Abilities 🔥</h1>
+- <img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+<h1>🔥 Languages & Abilities</h1>
 <p>
   <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
