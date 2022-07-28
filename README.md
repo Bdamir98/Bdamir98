@@ -1,10 +1,9 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
-
-<h1 align="center">Hi 👋, I'm Amir Hossain</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=E3F71A&lines=A+Flutter+developer+and+UI%2FUX+Designer+)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&color=E3F71A&center=true&width=600&lines=Hi+I+am+Amir+Hossain;A++Flutter+developer+and+UI%2FUX+Designer">
+</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/c6/ff/a5c6ff165995f48ef4351f5848a5ff2a.gif">
 - 🌱 I’m currently learning more about BlockChain and Machine Learning.<br>
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCGKBq4-5tOdYbeHggJr1VWg).<br>
 - 💬 Ask me about any tech-related stuff.<br>
 - 😄 Pronouns: He/His<br>
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.<br>
