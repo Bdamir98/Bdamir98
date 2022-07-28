@@ -1,6 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)]
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
-</div><br>
 <h1 align="center">Hi 👋, I'm Amir Hossain</h1>
 <h3 align="center">A passionate Flutter developer and UI/UX Designer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/c6/ff/a5c6ff165995f48ef4351f5848a5ff2a.gif">
@@ -9,7 +8,7 @@
 - 💬 Ask me about any tech-related stuff.<br>
 - 😄 Pronouns: He/His<br>
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.<br>
-- <img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+
 <h1>🔥 Languages & Abilities</h1>
 <p>
   <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
@@ -37,22 +36,21 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
 </p><br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shohel-amir-296106154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shohel-amir-296106154/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/shohel.amir.90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shohel.amir.90/" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/shohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/shohel" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/shohelamir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/shohelamir1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucgkbq4-5todybehggjr1vwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgkbq4-5todybehggjr1vwg" height="30" width="40" /></a>
+</p> 
 <p><h1>⚡ Stats ⚡</h1></p><br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Bdamir98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Bdamir98&theme=dark&hide_border=true" width = 400>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bdamir98&theme=light&hide_langs_below=1" />
 </p>
-<h1>👨 Social Media 👨</h1>
-<p align="center">
-  <a href="https://www.facebook.com/shohel.amir.90"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/facebook.png" alt="Facebook"style="width:110px;height:110px;/></a>
-  <a href="https://www.instagram.com/amirshohel8/"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/instagram2.png" alt="Instagram"style="width:110px;height:110px;/></a>
-  <a href="https://www.linkedin.com/in/shohel-amir-296106154/"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/linkedin.png" alt="Linkedin"style="width:110px;height:110px;/></a>
-  <a href="https://www.behance.net/shohelamir1"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/behance.png" alt="Behance"style="width:110px;height:110px;/></a>
-  <a href="https://dribbble.com/Shohel"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/dribbble.png" alt="Dribble"style="width:110px;height:110px;/></a>
-  <a href="https://codepen.io/shohel-amir"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/Mask%20Group%20381.png" alt="CodePen"style="width:110px;height:110px;/></a>
-  <a href="https://www.youtube.com/channel/UCGKBq4-5tOdYbeHggJr1VWg"><img src="https://github.com/Bdamir98/hello-world/blob/master/images/youtube.png" alt="Youtube"style="width:110px;height:110px;/></a>
-</p>  
+
 
 
 
