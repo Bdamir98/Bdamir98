@@ -6,7 +6,11 @@
 - 🌱 I’m currently learning more about BlockChain and Machine Learning.<br>
 - 💬 Ask me about any tech-related stuff.<br>
 - 😄 Pronouns: He/His<br>
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.<br>
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.<br><br>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Bdamir98?label=Followers&logo=GitHub&style=for-the-badge">
+  <img src="https://gpvc.arturio.dev/Bdamir98">
+</p>
 
 <h1>🔥 Languages & Abilities</h1>
 <p>
@@ -42,17 +46,18 @@
 <a href="https://dribbble.com/https://dribbble.com/shohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/shohel" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/shohelamir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/shohelamir1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucgkbq4-5todybehggjr1vwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgkbq4-5todybehggjr1vwg" height="30" width="40" /></a>
-</p> 
-
+</p> <br>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&myquote=Learning to code is learning to create and innovate">
 </p>
-
 <p><h1>⚡ Stats ⚡</h1></p><br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Bdamir98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Bdamir98&theme=dark&hide_border=true" width = 400>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bdamir98&theme=light&hide_langs_below=1" />
+</p><br>
+<p align="center">
+  <img src="https://www.gifcen.com/wp-content/uploads/2021/05/the-end-gif-12.gif">
 </p>
 
 
