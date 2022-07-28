@@ -1,7 +1,7 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
 <h1 align="center">Hi 👋, I'm Amir Hossain</h1>
-<h3 align="center">A passionate Flutter developer and UI/UX Designer from Bangladesh</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=E3F71A&lines=A+Flutter+developer+and+UI%2FUX+Designer+)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/c6/ff/a5c6ff165995f48ef4351f5848a5ff2a.gif">
 - 🌱 I’m currently learning more about BlockChain and Machine Learning.<br>
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCGKBq4-5tOdYbeHggJr1VWg).<br>
@@ -44,6 +44,7 @@
 <a href="https://www.behance.net/https://www.behance.net/shohelamir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/shohelamir1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucgkbq4-5todybehggjr1vwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgkbq4-5todybehggjr1vwg" height="30" width="40" /></a>
 </p> 
+
 <p><h1>⚡ Stats ⚡</h1></p><br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Bdamir98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width = 400>
