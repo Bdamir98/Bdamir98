@@ -4,7 +4,7 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/c6/ff/a5c6ff165995f48ef4351f5848a5ff2a.gif">
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<marquee behavior="alternate" direction="right">,h1>✔ I’m currently working with Android App Development (Flutter)</h1></marquee>
+<marquee behavior="alternate" direction="right">,<h1>✔ I’m currently working with Android App Development (Flutter)</h1></marquee>
 - 🌱 I’m currently learning more about BlockChain and Machine Learning.<br>
 - 💬 Ask me about any tech-related stuff.<br>
 - 😄 Pronouns: He/His<br>
